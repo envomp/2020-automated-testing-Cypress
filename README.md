@@ -13,7 +13,7 @@ Then there are 3 options to run the tests:
 
 
 ### User stories
-#####Test the following user stories on the TalTech home page.
+Test the following user stories on the TalTech home page.
 
 * [X] As a user I can search for lecturer using firstname or lastname To find the right person.
 * [X] As a user I can search for lecturer using name To find out what is lecturers position.
